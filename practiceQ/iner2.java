@@ -19,7 +19,7 @@ class GamingLaptop extends Laptop{
 public class iner2 {
     public static void main(String[] args) {
     GamingLaptop g = new GamingLaptop();
-    g.PowerOn
+    g.PowerOn();
     g.boot();
     g.startgame();
     }
